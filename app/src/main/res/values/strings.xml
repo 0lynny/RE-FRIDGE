@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RE:Fridge</string>
+    <string name="google_api_key">AIzaSyAw7k-sHOuDmjazy9rkono4knYEBVIwBYk</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+    <string name="api_url">http://openapi.foodsafetykorea.go.kr/api/sample/I2790/xml/1/5/DESC_KOR=</string>
+
+</resources>

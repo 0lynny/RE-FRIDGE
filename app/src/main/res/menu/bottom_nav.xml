@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/navigation_1"
+            android:icon="@drawable/ic_baseline_kitchen_24"
+            android:title="홈" />
+
+        <item
+            android:id="@+id/navigation_4"
+            android:icon="@drawable/ic_baseline_add_24"
+            android:title="등록" />
+
+        <item
+            android:id="@+id/navigation_2"
+            android:icon="@drawable/ic_baseline_ballot_24"
+            android:title="식품영양성분" />
+
+        <item
+            android:id="@+id/navigation_3"
+            android:icon="@drawable/ic_baseline_storefront_24"
+            android:title="주변 상점" />
+
+        <item
+            android:id="@+id/navigation_5"
+            android:icon="@drawable/ic_baseline_storefront_24"
+            android:title="온라인 구매" />
+
+</menu>
